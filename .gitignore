@@ -1,6 +1,7 @@
 # IDE related files
 .vscode
 .idea
+.github
 
 # project setting files
 .env
